@@ -55,4 +55,28 @@ Un ingénieur logiciel est un professionnel qui écrit et conçoit des logiciels
 
 En perpétuelle évolution de par sa nature, le devops doit s'affranchir des tendances tout en créant de nouvelles directions. Le devops transforme profondément et sereinement les méthodes de travail tout en valorisant les métiers.Il n'y a pas de fin prevu.
 
+## Étape 2 - Les types d’entreprises :
+### Qu’est-ce qu’on attend de vous dans ce type d’entreprise ?
+#### freelance 
 
+Pour un freelance ils n'y a pas vraiment d'attentes particulieres niveaux horaires ou toutes ces choses qui dependent d'une entreprise car il est sont propre patron. Je pense qu'il y'aurais plus une attente niveaux contrat pour essayer davoir un chiffre d'affaire constant.
+
+#### Les agences
+
+ Vos premières attentes c'est que votre expert soit en mesure de travailler votre communication commerciale pour un bon markéting de votre entreprise sur vos pages afin que vous puissiez capter de nouveaux clients potentiels.Une bonne stratégie de communication vous permettra non seulement d'avoir de  cibles, mais aussi de gagner votre visibilité. L'expert saura vous aider pour votre référencement afin que vous ayez un support personnalisé avec une identité visuelle pour vous démarquer de vos concurrents. 
+
+### Quels sont les facteurs de succès dans ce type d’entreprises ?
+
+Je dirais une bonne renomer, des contacts et un bon chiffre d'affaire
+
+### Est-ce que vous devez être un spécialiste ou être polyvalent pour réussir ?
+
+Je pense que etre un specialiste n'est pas la cles de la reussite et en plus de ca une tache tres difficile d'y parvenir, si je suis polyvalent et un minimum competent je pense qu'une personne qui c'est specialiser n'aura pas les competences sur d'autre languages que jaurais.
+
+### Comment est organisée une journée pour un développeur dans ce type d’entreprise (en moyenne) ?
+
+Vérifier vos emails pour voir s’il y a des urgences à traiter. Je consulte mes mails le matin et le soir. Je traite d’abord les mails urgents, puis je prévois un temps pour répondre à ceux qui sont moins urgents. Dans tous les cas, je prends le temps de prévenir mes clients de la réception du mail.
+Planifier ma journée. Utilise la méthode de l’important et de l’urgent pour trier tes tâches. Les choses importantes sont bien sûr les projets clients mais aussi votre communication, la prospection, développer une offre. Les choses moins urgentes et moins importantes sont placées à la fin de ma journée. Il s’agit par exemple d’intégration de contenus, des mises à jour de plugins ou d’autres tâches qui nécessitent moins de concentration.
+Faire un point en fin de journée vous permet de reporter si besoin des tâches moins urgentes et de préparer le lendemain tout en terminant la journée l’esprit serein.
+
+## Étape 3 - L’éthique :
