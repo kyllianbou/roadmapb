@@ -80,3 +80,9 @@ Planifier ma journée. Utilise la méthode de l’important et de l’urgent pou
 Faire un point en fin de journée vous permet de reporter si besoin des tâches moins urgentes et de préparer le lendemain tout en terminant la journée l’esprit serein.
 
 ## Étape 3 - L’éthique :
+### Y a-t-il des domaines dans lesquels vous refuseriez toujours de travailler ? Qui vont à l’encontre de vos principes / valeurs ?
+
+Il y en a effectivement certain que je peux citer et d'autre non car raison personelle mais des site pour nuir d'autre personne ne m'intersse pas .
+
+
+ 
