@@ -85,4 +85,5 @@ Faire un point en fin de journée vous permet de reporter si besoin des tâches 
 Il y en a effectivement certain que je peux citer et d'autre non car raison personelle mais des site pour nuir d'autre personne ne m'intersse pas .
 
 
+
  
